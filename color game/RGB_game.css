@@ -1,0 +1,65 @@
+body{
+	background-color: black;
+	font-family: Bangers,cursive;
+}
+
+*{
+	font-family: Bangers,cursive;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+.active{
+	background-color:#a2f525;
+}
+
+#h{
+	background-color:#a2f525;
+	height: 20%;
+}
+
+.card_size{
+	width: 7rem; 
+	height: 7rem;
+}
+
+.row{
+	margin-left: 10%;
+}
+
+.cen{
+	text-align: center;
+}
+.tab{
+	height: 150px;
+	width: 150px;
+	background-color: white;
+	border: 25px solid black;
+	margin: 100px;
+	transition: background 0.6s;
+	border-radius: 150px;
+}
+
+.reference{
+background-color: black;
+}
+
+.but{
+	background-color: transparent;
+	border: none;
+	color: white;
+	outline: none;
+	outline-color: transparent;
+    outline-style: none;
+    outline-width: 0px;
+}
+
+button:hover{
+	background-color: #a2f525;
+	color: black;
+	transition:  all 0.3s;
+}
+
+#hard{
+	background-color: #a2f525;
+}
