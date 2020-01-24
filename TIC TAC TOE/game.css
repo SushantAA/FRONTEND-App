@@ -1,0 +1,50 @@
+html{
+	background-color: black;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+}
+h1{
+	text-align: center;
+	font-family: 'Bowlby One SC', cursive;
+}
+
+#rip{
+	letter-spacing: 1px;
+	font-family: 'Bowlby One SC', cursive;
+	/*background-color: black;*/
+	padding-left: 5px;
+	padding-right: 5px;
+	/*color: white;*/
+}
+
+#comment{
+	color: black;
+	letter-spacing: 1px;
+	font-family: 'Bowlby One SC', cursive;
+	
+}
+
+.com{
+	border: 1px solid white;
+	background-color: white;
+}
+
+.rowa{
+	text-align: center;
+	display: flex;
+	width: 420px;
+	margin:auto;
+	padding: 0;
+}
+
+.box{
+	font-family: 'Bangers', cursive;
+	text-align:center;
+	height: 115px;
+	width: 100px;
+	background-color:#32de2c;
+	margin: 3px;
+	font-size: 80px;
+	font-weight: 600;
+	transition: background 1s;
+}
