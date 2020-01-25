@@ -1,0 +1,9 @@
+#Sound Game
+
+*This game is a web app .Front end languages are used to build this.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#How to play
+
+*Every aplhabet in the key Board a sound and a color circle occurs which shrinks whith whanging its color.  
